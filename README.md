@@ -17,14 +17,13 @@
 
 (3) [השתתפות במערכת קוד פתוח](opensource/README.md). פתוח לכל הסטודנטים. 
 
+
+<!---
 (4) [פיתוח משחק מחשב "רציני"](games/README.md) - חינוכי או מחקרי. פתוח לסטודנטים הלוקחים את הקורס [פיתוח משחקי מחשב][gamedev].
+-->
 
 מספר המקומות מוגבל. לפנייה בנושא פרוייקט יש לשלוח גליון ציונים מעודכן בדואל ל:
 davidesh@ariel.ac.il
-
-השנה אני לא מנחה פרוייקטים של פיתוח אפליקציות.
-אבל יש מנחים אחרים שמוכנים להנחות פרוייקטים מסוג זה.
-לפרטים נוספים יש לפנות לרכז הפרוייקטים.
 
 
 מידע נוסף על הקורס:
@@ -37,6 +36,6 @@ davidesh@ariel.ac.il
 </div>
 
 
-[economic-alg]: https://github.com/erelsgl-at-ariel/algorithms-5782
-[research-alg]: https://github.com/erelsgl-at-ariel/research-5782
-[gamedev]: https://github.com/gamedev-at-ariel/gamedev-5782
+[economic-alg]: https://github.com/erelsgl-at-ariel/algorithms-5783
+[research-alg]: https://github.com/erelsgl-at-ariel/research-5783
+[gamedev]: https://github.com/gamedev-at-ariel/gamedev-5783
