@@ -21,14 +21,14 @@
 1. **[VPL](https://github.com/jcrodriguez-dis/moodle-mod_vpl)** - תוסף למודל, לבדיקה אוטומטית של תרגילי תיכנות.
 האתגר: לאפשר למתרגלים להעלות מטלות דרך גיטהאב, לאפשר לסטודנטים להגיש מטלות דרך גיטהאב, וכן להעלות למערכת את המטלות בקורסי התיכנות במחלקה (שנה א + ב).
 
+2. **[Open Bus](https://github.com/hasadna/open-bus)** - מערכת לניתוח נתוני תחבורה ציבורית בזמן אמת. האתגר: לבנות מערכת המתריעה 5 דקות לפני שהאוטובוס מגיע.
+
 3. **[NetworkX](https://github.com/networkx/networkx/blob/main/CONTRIBUTING.rst)**  - רשתות וגרפים בפייתון. האתגר:  הוספת אלגוריתמים שונים בגרפים ורשתות.
 
 4. **[ABCVoting](https://github.com/martinlackner/abcvoting)** - אלגוריתמים להצבעות ובחירות.
 האתגר:
 [אלגוריתמים לבדיקת תכונות של וועדות](https://github.com/martinlackner/abcvoting/issues/19),
 [נושאים נוספים](https://github.com/martinlackner/abcvoting/issues).
-
-1. **[NumberPartitioning](https://github.com/fuglede/numberpartitioning)** - אלגוריתמים לבעיות אופטימיזציה הקשורות לחלוקת מספרים לקבוצות.
 
 1. **[GeoGebra](https://github.com/geogebra/geogebra)** - מערכת גרפית לחישובים אלגבריים וגיאומטריים. האתגר: תרגום המערכת לשפת פייתון.
 
